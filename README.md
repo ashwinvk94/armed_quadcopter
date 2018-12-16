@@ -26,6 +26,10 @@ python ik.py
 ![inverse_kinematics](https://user-images.githubusercontent.com/35679537/50048639-9cae9d00-009f-11e9-9659-71a9fb2c9cb7.png)
 The quadcopter should move to the grasping position. Now you can vary the position and orientation of the cylindrical object by using V-REP's built-in [objectMovement UI](http://www.coppeliarobotics.com/helpFiles/en/objectMovement.htm)  The quadcopter should move so as to grasp the object in the updated position and orientation.
 
+Demonstration videos can be found at:
+(https://www.youtube.com/watch?v=TAcblA4842w)
+(https://www.youtube.com/watch?v=bQ_WQfneV_g)
+(https://www.youtube.com/watch?v=F-4HzJd8PGQ&t=1s)
 
 ## Built With
 
