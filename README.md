@@ -12,7 +12,7 @@ Open a terminal in the local repository directory and run the python file using 
 ```
 python pick_place.py
 ```
-
+![sim_pic_1](https://user-images.githubusercontent.com/35679537/50048636-81dc2880-009f-11e9-806a-3445c7e62ad7.png)
 Open the pick_place_cuboid.ttt file in order to view the simulation for the pick and place of a cuboid object. To run the simulation, run the same python file mentioned above.
 
 ## Running the Inverse Kinematics demonstration
@@ -23,7 +23,7 @@ Open a terminal in the local repository directory and run the python file using 
 ```
 python ik.py
 ```
-
+![inverse_kinematics](https://user-images.githubusercontent.com/35679537/50048639-9cae9d00-009f-11e9-9659-71a9fb2c9cb7.png)
 The quadcopter should move to the grasping position. Now you can vary the position and orientation of the cylindrical object by using V-REP's built-in [objectMovement UI](http://www.coppeliarobotics.com/helpFiles/en/objectMovement.htm)  The quadcopter should move so as to grasp the object in the updated position and orientation.
 
 
